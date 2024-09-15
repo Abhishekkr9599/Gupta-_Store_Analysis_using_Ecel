@@ -1,1 +1,1 @@
-# Gupta-_Store_Analysis_using_Ecel
+# Gupta-_Store_Analysis_using_Excel
